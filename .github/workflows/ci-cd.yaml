@@ -1,4 +1,4 @@
-name: Deploy React + Vite to Github Pages
+name: Deploy Food delivery app
 
 on:
   workflow_dispatch:
